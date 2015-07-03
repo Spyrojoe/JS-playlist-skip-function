@@ -1,0 +1,5 @@
+body{max-width:300px;margin:0 auto;padding-top:40px;font-family:"helvetica neue",helvetica,arial,sans-serif;font-size:1.2em;font-weight:300;background:#fefefe}
+.wrap{margin-bottom:30px}
+ul{max-width:300px;margin:0 auto;padding:0;list-style:none;background:#d3d3d3;text-align:center}
+li{display:inline-block;margin:0 10px;padding:14px 20px;background:#0D61D4}
+a{color:#eee;text-decoration:none}
