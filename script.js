@@ -1,8 +1,8 @@
 $(document).ready(function(){
 
-	var list = ["1", "2", "3", "4", "5", "6", "7"];	//create the playlist
-	var activeItem = list[0];						//set active item 
-	output(activeItem);								//output active item
+	var list = ["1", "2", "3", "4", "5", "6", "7"];		//create the playlist
+	var activeItem = list[0];							//set active item 
+	output(activeItem);									//output active item
 
 	$("#forward").click(function(e){
 		e.preventDefault();
